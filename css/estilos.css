@@ -7,7 +7,6 @@
 
 #fondo1{
     height: 500px;
-    background: url(https://raw.githubusercontent.com/FabiWebData/Fabicss1.github.io/main/image/001.jpeg) ;
     background-size: cover;
     /* -webkit-filter: blur(3px); */
     display: flex;
