@@ -1,5 +1,5 @@
 #fondo2{
-    background-image: url(image/11.jpg);
+    background: url(image/11.jpg);
     height: 500px;
     background-size: cover;
     background-repeat: no-repeat;
