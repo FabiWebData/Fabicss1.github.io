@@ -1,0 +1,27 @@
+*{
+    background-color: rgb(131, 24, 67);
+    margin: 0;
+    padding: 0;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.us{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(131, 24, 67);
+}
+
+.ustext{
+    background:  rgb(131, 24, 67);
+    padding: 50px;
+    height: 100%;
+    width: 1200px;
+    text-align: justify;
+    font-size: larger;
+    font-size: 25px;
+}
+
+.ustext:hover{
+    font-size: 35px;
+}
